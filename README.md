@@ -26,4 +26,4 @@ in CMD just run Process.py:
 
 ## OUTPUT
 
-![a girl](https://en.wikipedia.org/wiki/Girl#/media/File:Young_girl_smiling_in_sunshine_(2).jpg)
+![a girl](https://octodex.github.com/images/yaktocat.png)
