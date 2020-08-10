@@ -10,6 +10,6 @@ step 2: install all requirements modules :
 
 - first open CMD in project directory
 
-- secon run this code : pip install -r Requierements
+- secon run this code : > pip install -r Requierements
 
-if pip doesn't work just run fix_pip.py [python fix_pip.py]
+if pip doesn't work just run fix_pip.py > python fix_pip.py
