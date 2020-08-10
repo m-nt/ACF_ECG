@@ -26,4 +26,15 @@ in CMD just run Process.py:
 
 ## OUTPUT
 
-![a girl](https://octodex.github.com/images/yaktocat.png)
+### Raw data
+
+![ACF](https://github.com/yeganeyazdanian/ACF_ECG/blob/master/Exports/ACF.png)
+
+### R peaks
+
+![ACF](https://github.com/yeganeyazdanian/ACF_ECG/blob/master/Exports/R_Peaks.png)
+
+### ACF
+
+![ACF](https://github.com/yeganeyazdanian/ACF_ECG/blob/master/Exports/Row_data.png)
+
