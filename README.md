@@ -28,7 +28,7 @@ in CMD just run Process.py:
 
 ### Raw data
 
-![ACF](https://github.com/yeganeyazdanian/ACF_ECG/blob/master/Exports/ACF.png)
+![ACF](https://github.com/yeganeyazdanian/ACF_ECG/blob/master/Exports/Row_data.png)
 
 ### R peaks
 
@@ -36,5 +36,5 @@ in CMD just run Process.py:
 
 ### ACF
 
-![ACF](https://github.com/yeganeyazdanian/ACF_ECG/blob/master/Exports/Row_data.png)
+![ACF](https://github.com/yeganeyazdanian/ACF_ECG/blob/master/Exports/ACF.png)
 
